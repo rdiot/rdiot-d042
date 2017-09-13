@@ -1,0 +1,2 @@
+# rdiot-d042
+7 inch TFT LCD Module SSD1963 800x480 (SSD1963) [D042]
